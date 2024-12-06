@@ -1,0 +1,37 @@
+[
+    {
+        "nid_cliente": 1, 
+        "nid_fact": 1, 
+        "fecha_venta": "2024-04-01"
+    }, 
+    {
+        "nid_cliente": 2, 
+        "nid_fact": 2, 
+        "fecha_venta": "2024-04-05"
+    }, 
+    {
+        "nid_cliente": 3, 
+        "nid_fact": 3, 
+        "fecha_venta": "2024-04-10"
+    }, 
+    {
+        "nid_cliente": 4, 
+        "nid_fact": 4, 
+        "fecha_venta": "2024-04-12"
+    }, 
+    {
+        "nid_cliente": 5, 
+        "nid_fact": 5, 
+        "fecha_venta": "2024-04-15"
+    }, 
+    {
+        "nid_cliente": 6, 
+        "nid_fact": 6, 
+        "fecha_venta": "2024-04-20"
+    }, 
+    {
+        "nid_cliente": 7, 
+        "nid_fact": 7, 
+        "fecha_venta": "2024-04-25"
+    }
+]

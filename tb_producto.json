@@ -1,0 +1,65 @@
+[
+    {
+        "nid_tb_producto": 1, 
+        "vventa": 35.0, 
+        "descripcion": "Alimento para perros adultos", 
+        "nombre": "Alimento Premium", 
+        "vcompra": 20.5, 
+        "nid_categoria": 1, 
+        "stock": 50.0
+    }, 
+    {
+        "nid_tb_producto": 2, 
+        "vventa": 18.0, 
+        "descripcion": "Para control de par\u00e1sitos", 
+        "nombre": "Antiparasitario", 
+        "vcompra": 10.0, 
+        "nid_categoria": 2, 
+        "stock": 30.0
+    }, 
+    {
+        "nid_tb_producto": 3, 
+        "vventa": 12.0, 
+        "descripcion": "Accesorio para paseos", 
+        "nombre": "Collar ajustable", 
+        "vcompra": 5.0, 
+        "nid_categoria": 3, 
+        "stock": 15.0
+    }, 
+    {
+        "nid_tb_producto": 4, 
+        "vventa": 15.0, 
+        "descripcion": "Higiene para mascotas", 
+        "nombre": "Shampoo", 
+        "vcompra": 8.0, 
+        "nid_categoria": 4, 
+        "stock": 20.0
+    }, 
+    {
+        "nid_tb_producto": 5, 
+        "vventa": 20.0, 
+        "descripcion": "Suplemento vitam\u00ednico", 
+        "nombre": "Calcio Plus", 
+        "vcompra": 12.0, 
+        "nid_categoria": 5, 
+        "stock": 25.0
+    }, 
+    {
+        "nid_tb_producto": 6, 
+        "vventa": 6.0, 
+        "descripcion": "Juguete para perros", 
+        "nombre": "Pelota", 
+        "vcompra": 3.0, 
+        "nid_categoria": 6, 
+        "stock": 40.0
+    }, 
+    {
+        "nid_tb_producto": 7, 
+        "vventa": 25.0, 
+        "descripcion": "Complejo vitam\u00ednico", 
+        "nombre": "Multivitam\u00ednico", 
+        "vcompra": 15.0, 
+        "nid_categoria": 7, 
+        "stock": 35.0
+    }
+]

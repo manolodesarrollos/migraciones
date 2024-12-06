@@ -1,0 +1,58 @@
+[
+    {
+        "direccion": "Calle 1", 
+        "nro_telf": "3116205784", 
+        "descripcion": "Proveedor de alimentos", 
+        "nombre": "Proveedor A", 
+        "email": "proveedora@gmail.com", 
+        "nid_proveedor": 1
+    }, 
+    {
+        "direccion": "Calle 2", 
+        "nro_telf": "3056874125", 
+        "descripcion": "Proveedor de medicamentos", 
+        "nombre": "Proveedor B", 
+        "email": "proveedorb@gmail.com", 
+        "nid_proveedor": 2
+    }, 
+    {
+        "direccion": "Calle 3", 
+        "nro_telf": "3119865472", 
+        "descripcion": "Accesorios para mascotas", 
+        "nombre": "Proveedor C", 
+        "email": "proveedorc@gmail.com", 
+        "nid_proveedor": 3
+    }, 
+    {
+        "direccion": "Calle 4", 
+        "nro_telf": "3042587461", 
+        "descripcion": "Productos de higiene", 
+        "nombre": "Proveedor D", 
+        "email": "proveedord@gmail.com", 
+        "nid_proveedor": 4
+    }, 
+    {
+        "direccion": "Calle 5", 
+        "nro_telf": "3124769824", 
+        "descripcion": "Juguetes para mascotas", 
+        "nombre": "Proveedor E", 
+        "email": "proveedore@gmail.com", 
+        "nid_proveedor": 5
+    }, 
+    {
+        "direccion": "Calle 6", 
+        "nro_telf": "3015203020", 
+        "descripcion": "Vitaminas y suplementos", 
+        "nombre": "Proveedor F", 
+        "email": "proveedorf@gmail.com", 
+        "nid_proveedor": 6
+    }, 
+    {
+        "direccion": "Calle 7", 
+        "nro_telf": "3142569050", 
+        "descripcion": "Productos variados", 
+        "nombre": "Proveedor G", 
+        "email": "proveedorg@gmail.com", 
+        "nid_proveedor": 7
+    }
+]

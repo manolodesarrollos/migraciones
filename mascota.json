@@ -1,0 +1,65 @@
+[
+    {
+        "edad": "5 a\u00f1os", 
+        "especie": "Perro", 
+        "color": "Marr\u00f3n", 
+        "peso": 20.5, 
+        "nid_cliente": 1, 
+        "nid_mascota": 1, 
+        "tama\u00f1o": 60.5
+    }, 
+    {
+        "edad": "3 a\u00f1os", 
+        "especie": "Gato", 
+        "color": "Blanco", 
+        "peso": 5.0, 
+        "nid_cliente": 2, 
+        "nid_mascota": 2, 
+        "tama\u00f1o": 25.0
+    }, 
+    {
+        "edad": "7 a\u00f1os", 
+        "especie": "Perro", 
+        "color": "Negro", 
+        "peso": 25.0, 
+        "nid_cliente": 3, 
+        "nid_mascota": 3, 
+        "tama\u00f1o": 70.0
+    }, 
+    {
+        "edad": "2 a\u00f1os", 
+        "especie": "Perro", 
+        "color": "Gris", 
+        "peso": 18.0, 
+        "nid_cliente": 4, 
+        "nid_mascota": 4, 
+        "tama\u00f1o": 55.0
+    }, 
+    {
+        "edad": "4 a\u00f1os", 
+        "especie": "Gato", 
+        "color": "Naranja", 
+        "peso": 6.0, 
+        "nid_cliente": 5, 
+        "nid_mascota": 5, 
+        "tama\u00f1o": 30.0
+    }, 
+    {
+        "edad": "1 a\u00f1o", 
+        "especie": "Perro", 
+        "color": "Blanco", 
+        "peso": 12.0, 
+        "nid_cliente": 6, 
+        "nid_mascota": 6, 
+        "tama\u00f1o": 45.0
+    }, 
+    {
+        "edad": "6 a\u00f1os", 
+        "especie": "Gato", 
+        "color": "Negro", 
+        "peso": 7.0, 
+        "nid_cliente": 7, 
+        "nid_mascota": 7, 
+        "tama\u00f1o": 35.0
+    }
+]

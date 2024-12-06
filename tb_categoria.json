@@ -1,0 +1,30 @@
+[
+    {
+        "descripcion": "Alimentos", 
+        "nid_categoria": 1
+    }, 
+    {
+        "descripcion": "Medicamentos", 
+        "nid_categoria": 2
+    }, 
+    {
+        "descripcion": "Accesorios", 
+        "nid_categoria": 3
+    }, 
+    {
+        "descripcion": "Higiene", 
+        "nid_categoria": 4
+    }, 
+    {
+        "descripcion": "Suplementos", 
+        "nid_categoria": 5
+    }, 
+    {
+        "descripcion": "Juguetes", 
+        "nid_categoria": 6
+    }, 
+    {
+        "descripcion": "Vitaminas", 
+        "nid_categoria": 7
+    }
+]

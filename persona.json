@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Juan", 
+        "nid_cedula": 1001, 
+        "rol": "Veterinario", 
+        "apellido": "P\u00e9rez", 
+        "fecha_nacimiento": "1990-05-10"
+    }, 
+    {
+        "nombre": "Mar\u00eda", 
+        "nid_cedula": 1002, 
+        "rol": "Recepcionista", 
+        "apellido": "G\u00f3mez", 
+        "fecha_nacimiento": "1985-07-15"
+    }, 
+    {
+        "nombre": "Carlos", 
+        "nid_cedula": 1003, 
+        "rol": "Asistente", 
+        "apellido": "L\u00f3pez", 
+        "fecha_nacimiento": "1992-03-22"
+    }, 
+    {
+        "nombre": "Ana", 
+        "nid_cedula": 1004, 
+        "rol": "Cliente", 
+        "apellido": "Mart\u00ednez", 
+        "fecha_nacimiento": "1996-12-03"
+    }, 
+    {
+        "nombre": "Luis", 
+        "nid_cedula": 1005, 
+        "rol": "Cliente", 
+        "apellido": "Torres", 
+        "fecha_nacimiento": "1988-09-17"
+    }, 
+    {
+        "nombre": "Marta", 
+        "nid_cedula": 1006, 
+        "rol": "Cliente", 
+        "apellido": "Ram\u00edrez", 
+        "fecha_nacimiento": "1994-11-25"
+    }, 
+    {
+        "nombre": "Pedro", 
+        "nid_cedula": 1007, 
+        "rol": "Cliente", 
+        "apellido": "Hern\u00e1ndez", 
+        "fecha_nacimiento": "1980-02-10"
+    }
+]

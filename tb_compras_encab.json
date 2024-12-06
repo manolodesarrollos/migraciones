@@ -1,0 +1,37 @@
+[
+    {
+        "fecha_compra": "2024-01-15", 
+        "nid_compra": 1, 
+        "nid_proveedor": 1
+    }, 
+    {
+        "fecha_compra": "2024-01-20", 
+        "nid_compra": 2, 
+        "nid_proveedor": 2
+    }, 
+    {
+        "fecha_compra": "2024-02-01", 
+        "nid_compra": 3, 
+        "nid_proveedor": 3
+    }, 
+    {
+        "fecha_compra": "2024-02-10", 
+        "nid_compra": 4, 
+        "nid_proveedor": 4
+    }, 
+    {
+        "fecha_compra": "2024-03-01", 
+        "nid_compra": 5, 
+        "nid_proveedor": 5
+    }, 
+    {
+        "fecha_compra": "2024-03-15", 
+        "nid_compra": 6, 
+        "nid_proveedor": 6
+    }, 
+    {
+        "fecha_compra": "2024-03-20", 
+        "nid_compra": 7, 
+        "nid_proveedor": 7
+    }
+]
